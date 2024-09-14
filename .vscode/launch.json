@@ -5,6 +5,20 @@
     "version": "0.2.0",
     "configurations": [
         {
+            "type": "java",
+            "name": "duplicate_integer",
+            "request": "launch",
+            "mainClass": "duplicate_integer",
+            "projectName": "DSA with dartt_d0b6c1b1"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "DSA with dartt_d0b6c1b1"
+        },
+        {
             "name": "Dart & Flutter",
             "request": "launch",
             "type": "dart"
