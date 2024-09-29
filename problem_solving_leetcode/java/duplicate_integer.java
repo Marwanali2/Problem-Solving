@@ -19,5 +19,5 @@ public class duplicate_integer {
 
         }
         return false;
-    }
+ }
 }
